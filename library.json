@@ -1,0 +1,18 @@
+[
+  {
+    "id": "song_1",
+    "title": "Aankhon Se Batana",
+    "artist": "Dikshant",
+    "album": "Single",
+    "fileName": "Aankhon Se Batana.mp3",
+    "albumArtUrl": ""
+  },
+  {
+    "id": "song_2",
+    "title": "Heeriye",
+    "artist": "Arijit Singh, Jasleen Royal",
+    "album": "Single",
+    "fileName": "Heeriye.mp3",
+    "albumArtUrl": ""
+  }
+]
